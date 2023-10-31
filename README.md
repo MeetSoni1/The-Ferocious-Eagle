@@ -1,6 +1,4 @@
 ## Meet Soni - Software Engineer
-# 💫 About Me:
-🔭 I’m currently working on SWE<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 ![Fuego](https://github.com/The-Ferocious-Eagle/The-Ferocious-Eagle/assets/92206364/d9c67264-2d6d-4cd7-98d9-f72bdc5e961d)
 
 ## 🌐 Socials:
